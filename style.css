@@ -1,0 +1,27 @@
+:root {
+  --color-fondo: rgb(92, 63, 251);
+  --degradado: linear-gradient(
+    90deg,
+    rgba(92, 63, 251, 1) 2%,
+    rgba(252, 70, 137, 0.985) 100%
+    --color-texto: white
+  );
+}
+
+body {
+  background: var(--degradado);
+  color: var(--color-texto);
+
+  .main {
+    border: 1px solid black;
+    display: flex;
+}
+.contenedor {
+  background-color: rgba(255, 255, 255, 0.2);
+  button {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+}

@@ -1,4 +1,4 @@
-const matriz = document.querySelector('.matriz');
+const matriz = document.querySelector('.matriz'); // seleccionando el section contenedor
 let buttons = document.querySelectorAll('button');
 
 buttons.forEach((button) => {
