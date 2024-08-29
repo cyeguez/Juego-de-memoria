@@ -11,6 +11,7 @@ let time = 30;
 let countDown = null;
 let showTime = document.getElementById("t-restante");
 let firstTime= 30;
+const bottonReset= document.getElementById("btn-reiniciar")
 
 
 // Añadiendo eventos a los buttons
@@ -104,3 +105,7 @@ function revealCard(id) {
     }
   }
 }
+
+bottonReset.addEventListener("click", () => {
+  location.reload();
+});
