@@ -1,7 +1,7 @@
 
 # Juego de Memoria 
 
-Es una projecto que consiste en elaborar un juego de memoria, el cual esta basado en una matriz 4x4, en donde el jugador al momento de darles click a un carta comienza correr el tiempo a darle click a la segunda carta este cuenta el número de jugadas, si las cartas tocadas son iguales se quedaran destapadas y se sumara un acierto, si no logras encontrar los pares de  cartas en los 30 segundos se bloquearan y se volteran todas las cartas mostrandote la ubicación de los pares.
+t a darle click a la segunda carta este cuenta el número de jugadas, si las cartas tocadas son iguales se quedaran destapadas y se sumara un acierto, si no logras encontrar los pares de  cartas en los 30 segundos se bloquearan y se volteran todas las cartas mostrandote la ubicación de los pares.
 
 Este proyecto es responsivo, tiene un modo mobile y un desktop.
 
